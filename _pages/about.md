@@ -6,7 +6,7 @@ subtitle: <a href='https://www.aalto.fi/en'>Aalto University</a>, <a href='https
 
 profile:
   align: right
-  image: fakeid.jpg
+  image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>B315, CS Building</p>
