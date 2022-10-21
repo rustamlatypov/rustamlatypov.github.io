@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.aalto.fi/en'>Aalto University</a>, <a href='https://research.cs.aalto.fi/theory/'>CS Theory Group</a>
+subtitle: <a href='https://research.cs.aalto.fi/theory/'>CS Theory Group</a>, <a href='https://www.aalto.fi/en'>Aalto University</a>
 
 profile:
   align: right
