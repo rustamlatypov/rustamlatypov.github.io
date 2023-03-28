@@ -9,3 +9,7 @@
 "CoRR":
   url: https://arxiv.org/corr
   color: "#888178"
+
+"SPAA":
+    url: https://spaa.acm.org
+    color: "#6A4593"
