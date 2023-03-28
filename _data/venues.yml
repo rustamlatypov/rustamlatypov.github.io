@@ -1,6 +1,6 @@
 "SODA":
   url: https://www.siam.org/conferences/cm/conference/soda23
-  color: "#E37828"
+  color: "#006CB4"
 
 "DISC":
   url: http://www.disc-conference.org/wp/
@@ -12,4 +12,4 @@
 
 "SPAA":
     url: https://spaa.acm.org
-    color: "#6A4593"
+    color: "#E37828"
