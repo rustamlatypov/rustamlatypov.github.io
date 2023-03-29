@@ -1,12 +1,12 @@
-"SODA23":
+"SODA 23":
   url: https://www.siam.org/conferences/cm/conference/soda23
   color: "#006CB4"
 
-"DISC21":
+"DISC 21":
   url: http://www.disc-conference.org/wp/mirrors/disc2021/index.html
   color: "#009E69"
 
-"DISC22":
+"DISC 22":
   url: http://www.disc-conference.org/wp/mirrors/disc2022/index.html
   color: "#009E69"
 
@@ -14,6 +14,6 @@
   url: https://arxiv.org/corr
   color: "#888178"
 
-"SPAA23":
+"SPAA 23":
     url: https://spaa.acm.org
     color: "#E37828"
