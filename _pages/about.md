@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-A third-year PhD student, advised by Prof. Jara Uitto. Funded by the Computer Science department's competitive funding grant. Interested in the mathematical foundations of distributed systems and parallel computing, with an emphasis on the Massively Parallel Computation (MPC) model. Current research revolves around connectivity and coloring problems.
+A third-year PhD student, advised by Prof. Jara Uitto. Funded by the Computer Science department's competitive funding grant. Interested in the mathematical foundations of distributed systems and parallel computing, with an emphasis on the Massively Parallel Computation (MPC) model. Current research revolves around connectivity and coloring problems. 
 
 Always up for new topics and collaboration.<br/>
 firstname.lastname [at] aalto.fi
