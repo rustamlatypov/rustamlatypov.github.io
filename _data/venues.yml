@@ -10,6 +10,10 @@
   url: http://www.disc-conference.org/wp/mirrors/disc2022/index.html
   color: "#009E69"
 
+"DISC 23":
+  url: http://www.disc-conference.org/wp/disc2023/
+  color: "#009E69"
+
 "CoRR":
   url: https://arxiv.org/corr
   color: "#888178"
