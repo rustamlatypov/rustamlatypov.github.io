@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-08 12:00:00-0400
+date: 2023-10-20 12:00:00-0400
 inline: true
 ---
 
-Attending the 2023 Swiss Winter School on Theoretical Computer Science. <a href="https://theory.epfl.ch/WinterSchool2023/">[link]</a>
+Awarded the Nokia Scholarship by the Nokia Foundation. <a href="https://nokiafoundation.com/grants/nokia-scholarship/">[link]</a>
