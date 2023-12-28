@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-20 12:00:00-0400
+date: 2024-02-12 12:00:00-0400
 inline: true
 ---
 
-Was awarded the Nokia Scholarship by the Nokia Foundation. <a href="https://nokiafoundation.com/grants/nokia-scholarship/">[link]</a>
+Visiting Bernhard Haeupler at ETH Zurich until the end of May 2024.
