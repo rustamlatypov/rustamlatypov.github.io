@@ -39,13 +39,13 @@
       institution: Aalto University, Finland
       year: 2021 -
       description:
-        - Charting the complexity landscape of fundamental graph problems, and exploring the algorithmic applications of powerful probabilistic tools in the context of Massively Parallel Computation.
+        - Researching the mathematical foundations of distributed and parallel computing.
 
     - title: Research assistant
       institution: Aalto University, Finland
       year: 2020-2021
       description:
-        - Worked on distributed graph algorithms in low-space Massively Parallel Computation. Developed a deterministic, state-of-the-art 3-coloring algorithm for trees.
+        - Studied parallel graph algorithms in low-space Massively Parallel Computation. Developed a deterministic state-of-the-art 3-coloring algorithm for trees.
 
     - title: Giant Leap Intern
       institution: Vaisala Oyj
