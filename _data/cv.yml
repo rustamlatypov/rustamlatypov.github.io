@@ -58,28 +58,6 @@
       year: 2018
       description: Solved non-linear, ill-posed inverse problems for resistor networks both symbolically and numerically using the Gauss-Newton algorithm and Tikhonov regularization.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2021
-      items:
-        - Granted 24-month funding for my doctoral studies by the Dept. of CS Aalto
-        - Awarded 1000€ for academic success in mathematics by the Professor E. J. Nyström Fund
-        - Awarded 500€ for general academic success by the School of Science, Aalto
-    - year: 2020
-      items:
-        - Awarded 1000€ for general academic success by the School of Science, Aalto
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Massively Parallel Computation
-      items:
-        - The complexity landscape of LCL problems
-        - Probabilistic methods
-        - Arboricity-based colorings
-        - Connectivity
-
 - title: Other Interests
   type: list
   contents:
