@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-A third-year PhD student, advised by Prof. Jara Uitto. My interests lie in the mathematical foundations of distributed and parallel computing, with an emphasis on the Massively Parallel Computation (MPC) model. Current research revolves around connectivity and coloring problems. Always up for new topics and collaboration.<br/>
+A fourth-year PhD student, advised by Prof. Jara Uitto. My interests lie in the mathematical foundations of distributed and parallel computing, with an emphasis on the Massively Parallel Computation (MPC) model. Current research revolves around connectivity and coloring problems. Always up for new topics and collaboration.<br/>
 
 
 firstname.lastname [at] aalto.fi <br/>
