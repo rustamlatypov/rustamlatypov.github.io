@@ -39,24 +39,24 @@
       institution: Aalto University, Finland
       year: 2021 -
       description:
-        - Researching the mathematical foundations of distributed and parallel computing.
+        - Interested in the mathematical foundations of distributed and parallel computing. So far, my work has mainly focused on graph coloring and connectivity problems in different parallel models of computation.
 
     - title: Research assistant
       institution: Aalto University, Finland
       year: 2020-2021
       description:
-        - Studied parallel graph algorithms in low-space Massively Parallel Computation. Developed a deterministic state-of-the-art 3-coloring algorithm for trees.
+        - Worked on distributed graph algorithms in the Massively Parallel Computation model. Developed and published a state-of-the-art graph coloring algorithm (Master's thesis).
 
     - title: Giant Leap Intern
       institution: Vaisala Oyj
       year: 2019
       description:
-        - Developed software for forecasting 20% of the test failures in large scale radiosonde production using data mining, feature engineering and machine learning (XGBoost, Python).
+        - Developed software that successfully forecasted test failures in large scale radiosonde production using data mining, feature engineering and machine learning (XGBoost, Python).
 
     - title: Research assistant
       institution: Aalto University, Finland
       year: 2018
-      description: Solved non-linear, ill-posed inverse problems for resistor networks both symbolically and numerically using the Gauss-Newton algorithm and Tikhonov regularization.
+      description: Studied ill-posed non-linear inverse problems for resistor networks both symbolically and numerically (Bachelor's thesis).
 
 - title: Other Interests
   type: list
