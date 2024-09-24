@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='https://users.aalto.fi/~uittoj3/'>Sublinear Algorithms Group</a>, <a href='https://www.aalto.fi/en'>Aalto University</a>
 
 profile:
