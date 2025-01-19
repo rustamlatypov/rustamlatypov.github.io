@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-04-29 12:00:00+0000
+date: 2021-06-22 12:00:00+0000
 inline: true
 ---
 
-Was awarded an <a href="https://tekniikanedistamissaatio.fi/en/apply-for-a-grant/grants-for-postgraduate-students//">encouragement grant</a> (5000€) by The Finnish Foundation for Technology Promotion.
+Was on parental leave with our daughter, Liana, from July 2024 to January 2025.
