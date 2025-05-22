@@ -12,5 +12,5 @@ Aalto University, Fall 2022 & 2023<br/>
 Head TA
 
 **Principles of Algorithmic Techniques** - <a href="https://sisu.aalto.fi/student/courseunit/otm-90ac913e-d8c4-465d-8b4f-3ddb3aaa77e1/brochure">CS-E3190</a><br/>
-Aalto University, Fall 2021<br/>
+Aalto University, Fall 2021 & 2025<br/>
 TA
