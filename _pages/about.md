@@ -21,5 +21,4 @@ A final-year doctoral researcher at Aalto University with research and teaching 
 <a href="https://github.com/rustamlatypov">github.com/rustamlatypov</a> <br/>
 firstname.lastname [at] aalto.fi <br/>
 Room B315 <br/>
-Konemiehentie 2<br/>
-02150, Espoo, Finland
+Konemiehentie 2, 02150, Espoo, Finland
