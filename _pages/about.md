@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-A final-year doctoral researcher at Aalto University with research and teaching experience in algorithm design and combinatorics, advised by <a href="https://users.aalto.fi/~uittoj3/">Jara Uitto</a>. My research interests lie in the mathematical foundations of distributed and parallel computing. I specialize in fundamental graph problems in modern models of computing. Finnish and Russian native speaker, fluent in English.<br/>
+A final-year doctoral researcher at Aalto University with research and teaching experience in algorithm design and combinatorics, advised by <a href="https://users.aalto.fi/~uittoj3/">Jara Uitto</a>. My research interests lie in the mathematical foundations of distributed and parallel computing. I specialize in fundamental graph problems in modern models of computing. During my free time I climb rocks. <br/>
 
 
 <a href="https://github.com/rustamlatypov">github.com/rustamlatypov</a> <br/>
