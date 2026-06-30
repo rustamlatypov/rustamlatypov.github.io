@@ -30,6 +30,10 @@
   url: https://arxiv.org/corr
   color: "#888178"
 
+"PhD Thesis":
+  url: https://www.aalto.fi/en/school-of-science
+  color: "#006CB4"
+
 "SPAA 23":
     url: https://spaa.acm.org/spaa-2023/
     color: "#E37828"

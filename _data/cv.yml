@@ -14,7 +14,7 @@
   contents:
     - title: Doctor of Science
       institution: Aalto University, Finland
-      year: 2021 -
+      year: 2021 - 2026
       description: Computer Science
     - title: Master of Science
       institution: Aalto University, Finland
@@ -35,11 +35,16 @@
 - title: Experience
   type: time_table
   contents:
+
+    - title: Postdoctoral researcher
+      institution: Aalto University, Finland
+      year: 2026 -
+
     - title: Doctoral researcher
       institution: Aalto University, Finland
-      year: 2021 -
+      year: 2021 - 2026
       description:
-        - Interested in the mathematical foundations of distributed and parallel computing. So far, my work has mainly focused on graph coloring and connectivity problems in different parallel models of computation.
+        - Worked on the mathematical foundations of distributed and parallel computing. My work mainly focused on graph coloring and connectivity problems in different parallel models of computation.
 
     - title: Research assistant
       institution: Aalto University, Finland
@@ -62,7 +67,7 @@
       institution: Finnish Defence Forces
       year: 2017
       description: Conducted patrols, weapon handling drills and assisted local military in the Middle East as a company commander's signalist.
-      
+
 - title: Other Interests
   type: list
   contents:

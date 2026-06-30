@@ -137,6 +137,9 @@
           {%- if entry.eprint %}
             <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
+          {%- if entry.isbn %}
+            <a href="https://urn.fi/{{ entry.isbn }}" class="btn btn-sm z-depth-0" role="button">isbn</a>
+          {%- endif %}
           {%- if entry.doi %}
             <a href="http://doi.org/{{ entry.doi }}" class="bibtex btn btn-sm z-depth-0" role="button">doi</a>
           {%- endif %}
