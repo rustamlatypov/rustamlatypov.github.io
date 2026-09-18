@@ -12,21 +12,18 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+      - name: About
+        url: about/
+        weight: 1
+      - name: Papers
+        url: papers/
+        weight: 2
+      - name: Courses
+        url: courses/
+        weight: 3
+      - name: Puzzles
+        url: puzzles
+        weight: 4
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -34,7 +31,7 @@ params:
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
@@ -55,49 +52,32 @@ params:
     profileMode:
           enabled: true
           title: Rustam Latypov
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: picture.jpeg
+          subtitle: "I'm a postdoc in the group of Jara Uitto at Aalto University with research and teaching experience in algorithm design and combinatorics. My research interests lie in the mathematical foundations of distributed and parallel computing. I specialize in fundamental graph problems in modern models of computing. During my free time I climb rocks."
+          imageUrl: prof_pic.jpg
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: About
+              url: about/
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
             - name: Courses
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Puzzles
+              url: puzzles
+
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
+          url: mailto:rustam.latypov@aalto.fi
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
+          url: https://scholar.google.com/citations?user=dh5n3p4AAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: https://github.com/rustamlatypov
+        - name: CV
+          url: cv.pdf
 
     assets:
         disableScrollBarStyle: true
