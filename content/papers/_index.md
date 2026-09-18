@@ -3,4 +3,4 @@ title: "Papers"
 description: "Preprints and articles by Rustam Latypov."
 ---
 
-dededd
+Authors are ordered alphabetically, as is standard in the field.

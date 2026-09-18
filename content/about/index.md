@@ -1,5 +1,5 @@
 ---
-title: "Automated Business Cycle Dashboard"
+title: "About"
 author: [Rustam Latypov]
 description: "This dashboard provides real-time charts on US unemployment rate, vacancy rate, labor market tightness, FERU, unemployment gap, and recession probability."
 cover:
@@ -8,19 +8,39 @@ cover:
 editPost:
     URL: https://github.com/pmichaillat/pmichaillat.github.io/blob/main/content/dashboard/dashboard.py
     Text: "Source code"
-showToc: true
+showToc: false
 disableAnchoredHeadings: false
 
 ---
 
 This dashboard provides real-time indicators of labor market slack and business cycle conditions in the United States. All charts automatically update as new data become [available on FRED](https://fred.stlouisfed.org/).
 
-## Unemployment rate
+## Positions
 
-+ [View in full screen](/dashboard/unemployment_rate.html)
-+ [Download unemployment rate](/dashboard/unemployment_rate.csv)
-+ *Construction* - The unemployment rate is the number of job seekers divided by the number of labor force participants.
-+ *Interpretation* - The unemployment rate measures the share of people who have not succeeded in finding a job, among all those who are available and willing to work. This is the standard, official unemployment rate (U3).
-+ *Source* - The numbers of [job seekers](https://fred.stlouisfed.org/series/UNEMPLOY) and [labor force participants](https://fred.stlouisfed.org/series/CLF16OV) are measured by the US Bureau of Labor Statistics (BLS) from the [Current Population Survey](https://www.bls.gov/cps/home.htm) (CPS), which is a large-scale household survey.
++ Postdoctoral researcher at Aalto University (April 2026 - Present)
++ Doctoral researcher at Aalto University (June 2021 - March 2026)
 
-This dashboard provides real-time indicators of labor market slack and business cycle conditions in the United States. All charts automatically update as new data become [available on FRED](https://fred.stlouisfed.org/).
+
+## Education
+
++ PhD in Computer Science, 2026 -- [phd-thesis](http://urn.fi/URN:ISBN:978-952-64-3081-2)
+
++ MSc in Mathematics and Operations Research, 2021 -- [msc-thesis](https://github.com/rustamlatypov/masters-thesis)
+
++ BSc in Engineering Physics and Mathematics, 2019 -- [bsc-thesis](https://github.com/rustamlatypov/bachelors-thesis)
+
+## Academic activity
+
+
+
+## Awards
+
++ [Encouragement grant](https://tekniikanedistamissaatio.fi/en/apply-for-a-grant/grants-for-postgraduate-students//), The Finnish Foundation for Technology Promotion (5000€)
+
++ [Nokia Scholarship](https://www.nokiafoundation.com/nokia-scholarship-info), Nokia Foundation (5000€)
+
++ 2-year [funding](https://www.aalto.fi/en/department-of-computer-science/competitive-call-for-departments-co-funded-doctoral-student) for my doctoral studies, Dept. of Computer Science, Aalto University
+
++ For [academic success](https://www.aalto.fi/en/grants-and-awards/scholarship-from-professor-e-j-nystrom-funds) in mathematics, Professor E.J. Nyström Fund (1000€)
+
++ For general [academic success](https://www.aalto.fi/fi/ohjelmat/teknistieteellinen-kandidaattiohjelma/hakemukset), School of Science, Aalto University (1500€)
