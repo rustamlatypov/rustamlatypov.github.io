@@ -1,7 +1,7 @@
 {{- $scratch := newScratch }}
 
-{{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- if and .Params.venue (not page.IsPage) }}
+{{- $scratch.Add "meta" (slice (printf "<span class='venue'><em>%s</em></span>" (.Params.venue | htmlEscape))) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}

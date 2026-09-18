@@ -1,6 +1,7 @@
 ---
-author: [Rustam Latypov]
+title: "About"
 hidemeta: true
+hidetitle: true
 showToc: false
 disableAnchoredHeadings: true
 
