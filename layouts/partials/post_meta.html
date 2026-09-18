@@ -1,7 +1,7 @@
 {{- $scratch := newScratch }}
 
 {{- if and .Params.venue (not page.IsPage) }}
-{{- $scratch.Add "meta" (slice (printf "<span class='venue'><em>%s</em></span>" (.Params.venue | htmlEscape))) }}
+{{- $scratch.Add "meta" (slice (printf "<span class='venue'>%s</span>" (.Params.venue | htmlEscape))) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
