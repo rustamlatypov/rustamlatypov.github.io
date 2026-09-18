@@ -18,12 +18,9 @@ menu:
       - name: Papers
         url: papers/
         weight: 2
-      - name: Courses
-        url: courses/
-        weight: 3
       - name: Puzzles
         url: puzzles/
-        weight: 4
+        weight: 3
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
@@ -61,8 +58,6 @@ params:
               url: about/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
             - name: Puzzles
               url: puzzles/
 

@@ -5,21 +5,17 @@ description: "This dashboard provides real-time charts on US unemployment rate, 
 cover:
     image: /dashboard.png
     alt: "US recession probability from dual-threshold Michez rule"
-editPost:
-    URL: https://github.com/pmichaillat/pmichaillat.github.io/blob/main/content/dashboard/dashboard.py
-    Text: "Source code"
 showToc: false
-disableAnchoredHeadings: false
+disableAnchoredHeadings: true
 
 ---
 
-This dashboard provides real-time indicators of labor market slack and business cycle conditions in the United States. All charts automatically update as new data become [available on FRED](https://fred.stlouisfed.org/).
+This is about me.
 
 ## Positions
 
-+ Postdoctoral researcher at Aalto University (April 2026 - Present)
-+ Doctoral researcher at Aalto University (June 2021 - March 2026)
-
++ Postdoctoral researcher at Aalto University (May 2026 - Present)
+	- Sublinear Algorithms [group](https://users.aalto.fi/~uittoj3/)
 
 ## Education
 
@@ -31,6 +27,18 @@ This dashboard provides real-time indicators of labor market slack and business 
 
 ## Academic activity
 
++ *Conference reviewer for*
+	- FOCS'26, PODC'26, STOC'26, SODA'26, FOCS'25, PODC'25, DISC'24, ICALP'24, ITCS'24, SWAT'24, PODC'23, DISC'23, PODC'22, DISC'22, DISC'21, OPODIS'20
+
++ *Journal reviewer for*
+  - Theoretical Computer Science, ACM Transactions on Algorithms
+
++ *Teaching*
+	- [Advanced Course in Algorithms](https://sisu.aalto.fi/student/courseunit/otm-27b3b776-0001-4f5c-b42a-219b28a7cbe7/brochure) -- Fall 2022, 2023 (Head TA)
+	- [Principles of Algorithmic Techniques](https://sisu.aalto.fi/student/courseunit/otm-90ac913e-d8c4-465d-8b4f-3ddb3aaa77e1/brochure) -- Fall 2021, 2023, 2025 (TA / Head TA)
+
++ *Supervision*
+	- Hannes Sederholm, 2022 -- Distributed Drawing of Planar Graphs in the CONGEST model, [MSc thesis](https://urn.fi/URN:NBN:fi:aalto-202208285084)
 
 
 ## Awards

@@ -1,30 +1,15 @@
 ---
-title: "Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity"
-date: 2026-06-10
-author: ["Malte Baumecker", "Rustam Latypov", "Yannic Maus", "Jara Uitto"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013."
-summary: We present almost optimal distributed algorithms for finding $2$-ruling sets in the classical LOCAL model. Our main contribution is a randomized algorithm that w.h.p. computes a $2$-ruling set on any $n$-node graph with bounded arboricity in $O(\log \log n)$ rounds.
-cover:
-    alt: "ruling-sets"
-    relative: true
-editPost:
-    URL: "https://www.disc-conference.org/wp/disc2026/"
-    Text: "International Symposium on Distributed Computing (DISC 2026)"
+title: "Three points on a circle"
+hidemeta: true
+summary: Three points are randomly chosen on a circle. What is the probability that the triangle with the vertices at the three points has the center of the circle in its interior?
 
 ---
+##### Problem
 
----
+Three points are randomly chosen on a circle. What is the probability that the triangle with the vertices at the three points has the center of the circle in its interior?
 
-##### Links
+##### Solution
 
-+ [ArXiv version](https://arxiv.org/abs/2606.11974)
+Let $P_1$, $P_2$, and $P_3$ be the points of interest. Let us decompose the random process of choosing $P_1$ and $P_2$ as follows. For both points, let us randomly choose a diameter of the circle, and then flipping a fair coin to determine at which endpoint does the point end up at.
 
----
-
-##### Abstract
-
-Given a graph $G=(V,E)$, a $\beta$-ruling set is a subset of nodes $S\subseteq V$ that is independent, and each node in $V$ is at distance at most $\beta$ from some node in $S$. In this paper, we present almost optimal distributed algorithms for finding $2$-ruling sets in the classical LOCAL model. Our main contribution is a randomized algorithm that w.h.p. computes a $2$-ruling set on any $n$-node graph with bounded arboricity in $O(\log \log n)$ rounds. In fact, the algorithm works up to arboricity $O(\log\log n)$, improves exponentially over the prior state of the art that can be achieved by combining [Barenboim, Elkin, Pettie, Schneider; JACM'16], [Ghaffari; SODA'16], and [Bisht, Kothapalli and Pemmaraju; PODC'14], and nearly matches the lower bound of $\Omega(\log \log n / \log \log \log n)$ [Balliu, Brandt, Kuhn, Olivetti; FOCS'20]. The domination parameter $\beta=2$ is optimal for algorithms with runtime $\log^{o(1)}n$:  on graphs with arboricity $2$, there is a lower bound of $\Omega(\sqrt{\log n})$ rounds for MIS (i.e., $\beta = 1$) [Khoury, Schild; FOCS'25].
-
-Additionally, we obtain improved algorithms for larger arboricity. For general graphs with arboricity $\alpha$, we present a randomized algorithm that computes a $2$-ruling set in $\widetilde{O}(\log^{5/8} \alpha +\log^{5/3} \log n)$ rounds. This improves exponentially over the state of the art for a large range of non-constant arboricity.
-
-Our techniques extend beyond distributed computing. We present an $O(\log \log \log n)$-round algorithm in the low-space Massively Parallel Computation (MPC) model that w.h.p. computes a $2$-ruling set on any graph with arboricity up to $2^{\text{poly}(\log \log n)}$, improving exponentially over the state of the art from [Kothapalli, Pai, Pemmaraju; FSTTCS'20] combined with [Fischer, Giliberti, Grunau; SPAA'23].
+Consider that $P_3$ is drawn randomly, and for $P_1$ and $P_2$ the random diameters are drawn, but it is not yet determined at which endpoints do the points end up. Now, the only possibility for the center to be contained in the triangle is that the furthermost ends (relative to the location of $P_3$) of both diameters are chosen. This probability is $1/4$.
