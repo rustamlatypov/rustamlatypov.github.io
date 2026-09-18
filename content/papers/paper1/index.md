@@ -4,9 +4,6 @@ date: 2026-06-10
 author: ["Malte Baumecker", "Rustam Latypov", "Yannic Maus", "Jara Uitto"]
 summary: We present almost optimal distributed algorithms for finding $2$-ruling sets in the classical LOCAL model. Our main contribution is a randomized algorithm that w.h.p. computes a $2$-ruling set on any $n$-node graph with bounded arboricity in $O(\log \log n)$ rounds.
 venue: DISC 2026
-cover:
-    alt: "ruling-sets"
-    relative: true
 editPost:
     URL: "https://www.disc-conference.org/wp/disc2026/"
     Text: "International Symposium on Distributed Computing (DISC 2026)"
