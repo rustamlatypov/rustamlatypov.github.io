@@ -28,19 +28,3 @@ Given a graph $G=(V,E)$, a $\beta$-ruling set is a subset of nodes $S\subseteq V
 Additionally, we obtain improved algorithms for larger arboricity. For general graphs with arboricity $\alpha$, we present a randomized algorithm that computes a $2$-ruling set in $\widetilde{O}(\log^{5/8} \alpha +\log^{5/3} \log n)$ rounds. This improves exponentially over the state of the art for a large range of non-constant arboricity.
 
 Our techniques extend beyond distributed computing. We present an $O(\log \log \log n)$-round algorithm in the low-space Massively Parallel Computation (MPC) model that w.h.p. computes a $2$-ruling set on any graph with arboricity up to $2^{\text{poly}(\log \log n)}$, improving exponentially over the state of the art from [Kothapalli, Pai, Pemmaraju; FSTTCS'20] combined with [Fischer, Giliberti, Grunau; SPAA'23].
-
----
-
-##### Citation
-
-```latex
-@misc{baumecker2026nearoptimaldistributed2rulingsets,
-      title={Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity},
-      author={Malte Baumecker and Rustam Latypov and Yannic Maus and Jara Uitto},
-      year={2026},
-      eprint={2606.11974},
-      archivePrefix={arXiv},
-      primaryClass={cs.DS},
-      url={https://arxiv.org/abs/2606.11974},
-}
-```
