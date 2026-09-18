@@ -1,16 +1,10 @@
 ---
-title: "About"
 author: [Rustam Latypov]
-description: "This dashboard provides real-time charts on US unemployment rate, vacancy rate, labor market tightness, FERU, unemployment gap, and recession probability."
-cover:
-    image: /dashboard.png
-    alt: "US recession probability from dual-threshold Michez rule"
+hidemeta: true
 showToc: false
 disableAnchoredHeadings: true
 
 ---
-
-This is about me.
 
 ## Positions
 
@@ -19,11 +13,13 @@ This is about me.
 
 ## Education
 
-+ PhD in Computer Science, 2026 -- [phd-thesis](http://urn.fi/URN:ISBN:978-952-64-3081-2)
++ PhD in Computer Science, Aalto University, 2026 -- [phd-thesis](http://urn.fi/URN:ISBN:978-952-64-3081-2)
+  - Advisor Prof. Jara Uitto
+  - Opponent Prof. Artur Czumaj
 
-+ MSc in Mathematics and Operations Research, 2021 -- [msc-thesis](https://github.com/rustamlatypov/masters-thesis)
++ MSc in Mathematics and Operations Research, Aalto University, 2021 -- [msc-thesis](https://github.com/rustamlatypov/masters-thesis)
 
-+ BSc in Engineering Physics and Mathematics, 2019 -- [bsc-thesis](https://github.com/rustamlatypov/bachelors-thesis)
++ BSc in Engineering Physics and Mathematics, Aalto University 2019 -- [bsc-thesis](https://github.com/rustamlatypov/bachelors-thesis)
 
 ## Academic activity
 

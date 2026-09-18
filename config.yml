@@ -51,8 +51,8 @@ params:
           title: Rustam Latypov
           subtitle: "I'm a postdoc in the group of Jara Uitto at Aalto University with research and teaching experience in algorithm design and combinatorics. My research interests lie in the mathematical foundations of distributed and parallel computing. I specialize in fundamental graph problems in modern models of computing. During my free time I climb rocks. <br><br> [webpage under construction]"
           imageUrl: prof_pic.jpg
-          imageWidth: 200
-          imageHeight: 200
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: About
               url: about/
