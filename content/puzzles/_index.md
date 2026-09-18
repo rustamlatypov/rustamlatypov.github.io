@@ -3,6 +3,6 @@ title: "Puzzles"
 description: "Puzzles."
 ---
 
-A selected collection of my favourite puzzles. None of these are of my own creation, but rather heard via friends and colleagues. My definition for a good puzzle, is that it is quick to explain, the solution does not invoke any heavy machinery, and the solution can be explained in under 2 minutes. I want to give credit to blaablaa.
+A curated collection of my favorite puzzles. None of these are my own creation, but rather heard about from friends and colleagues. I want to give credit to Giovanna Kobus, Marc Fuchs, Zahra Parsaeian, Roger Wattenhofer. My definition of a good puzzle is that it's quick to explain, its solution doesn't require any heavy machinery, and the solution can be explained in under two minutes.
 
 Clicking on a puzzle reveals the solution.
