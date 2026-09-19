@@ -49,13 +49,3 @@ disableAnchoredHeadings: true
 + For [academic success](https://www.aalto.fi/en/grants-and-awards/scholarship-from-professor-e-j-nystrom-funds) in mathematics, Professor E.J. Nyström Fund (1000€)
 
 + For general [academic success](https://www.aalto.fi/fi/ohjelmat/teknistieteellinen-kandidaattiohjelma/hakemukset), School of Science, Aalto University (1500€)
-
-
-**Puzzle.** Show that any graph with $n$ nodes and more than $n-1$ edges contains a cycle.
-
-<details>
-<summary>Show answer</summary>
-
-A forest on $n$ nodes has at most $n-1$ edges, so a graph with more edges cannot be a forest and must contain a cycle.
-
-</details>
