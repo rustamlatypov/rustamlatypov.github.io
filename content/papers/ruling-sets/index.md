@@ -1,13 +1,12 @@
 ---
 title: "Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity"
-date: 2026-06-10
+date: 2026-09-09
 author: ["Malte Baumecker", "Rustam Latypov", "Yannic Maus", "Jara Uitto"]
 summary: We present almost optimal distributed algorithms for finding $2$-ruling sets in the classical LOCAL model. Our main contribution is a randomized algorithm that w.h.p. computes a $2$-ruling set on any $n$-node graph with bounded arboricity in $O(\log \log n)$ rounds.
-venue: DISC 2026
+venue: DISC 26
 editPost:
     URL: "https://www.disc-conference.org/wp/disc2026/"
     Text: "International Symposium on Distributed Computing (DISC 2026)"
-
 
 ---
 
@@ -16,8 +15,6 @@ editPost:
 + [ArXiv version](https://arxiv.org/abs/2606.11974)
 
 ---
-
-In International Symposium on Distributed Computing (DISC 2026)
 
 ##### Abstract
 

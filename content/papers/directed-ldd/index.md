@@ -8,7 +8,6 @@ editPost:
     URL: "https://conferences.au.dk/icalp2025"
     Text: "International Colloquium on Automata, Languages, and Programming (ICALP 2025)"
 
-
 ---
 
 ##### Links
