@@ -14,6 +14,7 @@ editPost:
 
 + [Conference version](https://doi.org/10.4230/LIPIcs.DISC.2021.50)
 + [ArXiv version](https://arxiv.org/abs/2112.09479)
++ [Video](https://www.youtube.com/watch?v=EGS3qU5o0TI)
 
 ---
 

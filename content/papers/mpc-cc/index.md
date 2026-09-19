@@ -14,6 +14,7 @@ editPost:
 
 + [Conference version](https://doi.org/10.1137/1.9781611977554.ch99)
 + [ArXiv version](https://arxiv.org/abs/2211.03530)
++ [Video](https://dl.acm.org/doi/suppl/10.1145/3558481.3591103/suppl_file/SPAA23-fp234.mp4)
 
 ---
 
