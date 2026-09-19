@@ -1,0 +1,3 @@
+details > :not(summary) {
+  color: #006cb4;
+}
