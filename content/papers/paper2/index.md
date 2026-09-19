@@ -2,7 +2,7 @@
 title: "Near-Optimal Directed Low-Diameter Decompositions"
 date: 2025-06-30
 author: ["Karl Bringmann", "Nick Fischer", "Bernhard Haeupler", "Rustam Latypov"]
-summary: In this work, we make further advancements in the study of directed LDDs. We reveal a natural and intuitive (in hindsight) connection to Expander Decompositions, and leveraging this connection along with additional techniques, we establish the existence of an LDD with an edge-cutting probability of \makebox{$O(\frac{1}{D} \cdot \log n \log\log n)$}.
+summary: In this work, we make further advancements in the study of directed LDDs. We reveal a natural and intuitive (in hindsight) connection to Expander Decompositions, and leveraging this connection along with additional techniques, we establish the existence of an LDD with an edge-cutting probability of $O(\frac{1}{D} \cdot \log n \log\log n)$.
 venue: ICALP 25
 editPost:
     URL: "https://conferences.au.dk/icalp2025"
