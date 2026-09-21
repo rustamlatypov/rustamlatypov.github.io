@@ -12,6 +12,9 @@ disableAnchoredHeadings: true
 + Postdoctoral researcher at Aalto University (May 2026 - Present)
 	- Sublinear Algorithms [group](https://users.aalto.fi/~uittoj3/)
 
++ Visiting researcher at ETH Zürich (January - April 2024)
+	- Hosted by Prof. Bernhard Haeupler
+
 ## Education
 
 + PhD in Computer Science, Aalto University, 2026 -- [phd-thesis](http://urn.fi/URN:ISBN:978-952-64-3081-2)
