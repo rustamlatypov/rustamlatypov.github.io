@@ -7,7 +7,9 @@ disableAnchoredHeadings: true
 
 ---
 
-A curated collection of my favorite puzzles. None of these are my own creation, but rather heard about from friends and colleagues. I want to give credit to Giovanna Kobus, Marc Fuchs, Zahra Parsaeian, and Roger Wattenhofer. My definition of a good puzzle is that it's quick to explain, its solution doesn't require any heavy machinery, and the solution can be explained in under two minutes.
+A curated collection of my favorite puzzles. None of these are of my own creation. I've heard about them through friends and colleagues, and want to give credit to Giovanna Kobus, Marc Fuchs, Zahra Parsaeian, and Roger Wattenhofer, to name a few.
+
+My definition of a good puzzle is that the problem and its solution can be stated in under two minutes, without any heavy machinery.
 
 ---
 
@@ -16,6 +18,7 @@ A curated collection of my favorite puzzles. None of these are my own creation, 
 
 <details>
 <summary>Show answer</summary>
+<div style="height: 0.5em"></div>
 
 Consider a complete graph with $n$ nodes and consequently $n(n-1)/2$ edges. Observe that we can only color $(n-1)/2$ edges with a single color, since each time we color an edge, we prevent exactly two nodes from having an incident edge with that same color. Since the total number of edges is $n(n-1)/2$, we require at least $n$ colors, proving the claim.
 

@@ -8,10 +8,10 @@ description: "Rustam Latypov's office at the Aalto University."
 
 #### Office
 
-Room B315
-Computer Science Building
-Aalto University
-Konemiehentie 2, 02150 Espoo, Finland
+Room B315 <br>
+Computer Science Building <br>
+Aalto University <br>
+Konemiehentie 2, 02150 Espoo, Finland <br>
 
 
 #### Location
