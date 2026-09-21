@@ -29,16 +29,20 @@ For the case when the desired number of rounds is constant we show that both pro
 ##### Citation
 
 ```latex
-@inproceedings{latypov2023adaptive,
-  author =	{Latypov, Rustam and Łącki, Jakub and Maus, Yannic and Uitto, Jara},
-  title =	{{Adaptive Massively Parallel Connectivity in Optimal Space}},
-  booktitle =	{Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)},
-  publisher =	{Association for Computing Machinery},
-  address =	{New York, NY, USA},
-  year =	{2023},
-  doi =		{10.1145/3558481.3591103},
-  url =		{https://doi.org/10.1145/3558481.3591103},
-  eprint =	{2302.04033},
-  archivePrefix = {arXiv}
+@InProceedings{10.1145/3558481.3591103,
+  author = {Latypov, Rustam and {\L}{\k{a}}cki, Jakub and Maus, Yannic and Uitto, Jara},
+  title = {{Adaptive Massively Parallel Connectivity in Optimal Space}},
+  year = {2023},
+  isbn = {9781450395458},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3558481.3591103},
+  doi = {10.1145/3558481.3591103},
+  booktitle = {Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures},
+  pages = {431–441},
+  numpages = {11},
+  keywords = {adaptive massively parallel model, ampc, connectivity},
+  location = {Orlando, FL, USA},
+  series = {SPAA '23}
 }
 ```

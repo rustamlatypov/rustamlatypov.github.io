@@ -19,7 +19,7 @@ editPost:
 
 ##### Abstract
 
-Classic symmetry-breaking problems on graphs have gained a lot of attention in models of modern parallel computation. The Adaptive Massively Parallel Computation (AMPC) is a model that captures the central challenges in data center computations. Chang et al.\ [PODC'2019] gave an extremely fast, constant time, algorithm for the $(\Delta + 1)$-coloring problem, where $\Delta$ is the maximum degree of an input graph of $n$ nodes. The algorithm works in the most restrictive low-space setting, where each machine has $n^{\delta}$ local space for a constant $0 < \delta < 1$.
+Classic symmetry-breaking problems on graphs have gained a lot of attention in models of modern parallel computation. The Adaptive Massively Parallel Computation (AMPC) is a model that captures the central challenges in data center computations. Chang et al. [PODC'2019] gave an extremely fast, constant time, algorithm for the $(\Delta + 1)$-coloring problem, where $\Delta$ is the maximum degree of an input graph of $n$ nodes. The algorithm works in the most restrictive low-space setting, where each machine has $n^{\delta}$ local space for a constant $0 < \delta < 1$.
 
 The standard approaches for $(\Delta + 1)$-coloring are ignorant about the graph topology in the following sense: They exploit the property that any partial coloring can be extended to a feasible $(\Delta + 1)$-coloring of the whole graph. For most graphs, the chromatic number is much smaller than $\Delta + 1$ and we would like to find colorings with fewer colors. However, as soon as we have fewer than $\Delta + 1$ colors, it might not be possible to complete partial colorings.
 
@@ -32,9 +32,9 @@ Our main technical contribution is giving efficient deterministic algorithms to 
 ##### Citation
 
 ```latex
-@inproceedings{10.1145/3662158.3662821,
+@InProceedings{10.1145/3662158.3662821,
   author = {Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Uitto, Jara},
-  title = {Adaptive Massively Parallel Coloring in Sparse Graphs},
+  title = {{Adaptive Massively Parallel Coloring in Sparse Graphs}},
   year = {2024},
   isbn = {9798400706684},
   publisher = {Association for Computing Machinery},

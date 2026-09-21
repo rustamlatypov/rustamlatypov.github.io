@@ -30,12 +30,12 @@ Our techniques extend beyond distributed computing. We present an $O(\log \log \
 
 ```latex
 @misc{baumecker2026nearoptimaldistributed2rulingsets,
-      title={Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity},
-      author={Malte Baumecker and Rustam Latypov and Yannic Maus and Jara Uitto},
-      year={2026},
-      eprint={2606.11974},
-      archivePrefix={arXiv},
-      primaryClass={cs.DS},
-      url={https://arxiv.org/abs/2606.11974},
+  title = {{Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity}},
+  author = {Malte Baumecker and Rustam Latypov and Yannic Maus and Jara Uitto},
+  year = {2026},
+  eprint = {2606.11974},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.DS},
+  url = {https://arxiv.org/abs/2606.11974}
 }
 ```

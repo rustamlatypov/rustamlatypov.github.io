@@ -32,20 +32,21 @@ While restricting to forests may seem to weaken the result, we emphasize that al
 
 ```latex
 @InProceedings{balliu_et_al:LIPIcs.DISC.2022.9,
-  author =	{Balliu, Alkida and Brandt, Sebastian and Fischer, Manuela and Latypov, Rustam and Maus, Yannic and Olivetti, Dennis and Uitto, Jara},
-  title =	{{Exponential Speedup over Locality in MPC with Optimal Memory}},
-  booktitle =	{36th International Symposium on Distributed Computing (DISC 2022)},
-  pages =	{9:1--9:21},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-255-6},
-  ISSN =	{1868-8969},
-  year =	{2022},
-  volume =	{246},
-  editor =	{Scheideler, Christian},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/opus/volltexte/2022/17200},
-  URN =		{urn:nbn:de:0030-drops-172003},
-  doi =		{10.4230/LIPIcs.DISC.2022.9}
+  author = {Balliu, Alkida and Brandt, Sebastian and Fischer, Manuela and Latypov, Rustam and Maus, Yannic and Olivetti, Dennis and Uitto, Jara},
+  title = {{Exponential Speedup over Locality in MPC with Optimal Memory}},
+  booktitle = {36th International Symposium on Distributed Computing (DISC 2022)},
+  pages = {9:1--9:21},
+  series = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN = {978-3-95977-255-6},
+  ISSN = {1868-8969},
+  year = {2022},
+  volume = {246},
+  editor = {Scheideler, Christian},
+  publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address = {Dagstuhl, Germany},
+  URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2022.9},
+  URN = {urn:nbn:de:0030-drops-172003},
+  doi = {10.4230/LIPIcs.DISC.2022.9},
+  annote = {Keywords: Distributed computing, Locally checkable labeling problems, Trees, Massively Parallel Computation, Sublinear memory}
 }
 ```

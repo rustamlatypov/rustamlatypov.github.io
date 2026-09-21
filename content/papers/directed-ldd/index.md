@@ -31,21 +31,21 @@ We believe that our work provides a solid conceptual and technical foundation fo
 
 ```latex
 @InProceedings{bringmann_et_al:LIPIcs.ICALP.2025.35,
-  author =	{Bringmann, Karl and Fischer, Nick and Haeupler, Bernhard and Latypov, Rustam},
-  title =	{{Near-Optimal Directed Low-Diameter Decompositions}},
-  booktitle =	{52nd International Colloquium on Automata, Languages, and Programming (ICALP 2025)},
+  author = {Bringmann, Karl and Fischer, Nick and Haeupler, Bernhard and Latypov, Rustam},
+  title = {{Near-Optimal Directed Low-Diameter Decompositions}},
+  booktitle = {52nd International Colloquium on Automata, Languages, and Programming (ICALP 2025)},
   pages =	{35:1--35:18},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-372-0},
-  ISSN =	{1868-8969},
-  year =	{2025},
-  volume =	{334},
-  editor =	{Censor-Hillel, Keren and Grandoni, Fabrizio and Ouaknine, Jo\"{e}l and Puppis, Gabriele},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.35},
-  URN =		{urn:nbn:de:0030-drops-234125},
-  doi =		{10.4230/LIPIcs.ICALP.2025.35},
-  annote =	{Keywords: Low Diameter Decompositions, Expander Decompositions, Directed Graphs}
+  series = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN = {978-3-95977-372-0},
+  ISSN = {1868-8969},
+  year = {2025},
+  volume = {334},
+  editor = {Censor-Hillel, Keren and Grandoni, Fabrizio and Ouaknine, Jo\"{e}l and Puppis, Gabriele},
+  publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address = {Dagstuhl, Germany},
+  URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ICALP.2025.35},
+  URN = {urn:nbn:de:0030-drops-234125},
+  doi = {10.4230/LIPIcs.ICALP.2025.35},
+  annote = {Keywords: Low Diameter Decompositions, Expander Decompositions, Directed Graphs}
 }
 ```

@@ -30,16 +30,13 @@ Furthermore, we consider Locally Checkable Labeling  problems (LCLs), whose solu
 ##### Citation
 
 ```latex
-@inproceedings{balliu2023optimal,
-  author =	{Balliu, Alkida and Latypov, Rustam and Maus, Yannic and Olivetti, Dennis and Uitto, Jara},
-  title =	{{Optimal Deterministic Massively Parallel Connectivity on Forests}},
-  booktitle =	{Proceedings of the 2023 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)},
-  pages =	{2589--2631},
-  publisher =	{Society for Industrial and Applied Mathematics},
-  year =	{2023},
-  doi =		{10.1137/1.9781611977554.ch99},
-  url =		{https://doi.org/10.1137/1.9781611977554.ch99},
-  eprint =	{2211.03530},
-  archivePrefix = {arXiv}
+@InProceedings{doi:10.1137/1.9781611977554.ch99,
+  author = {Alkida Balliu and Rustam Latypov and Yannic Maus and Dennis Olivetti and Jara Uitto},
+  title = {{Optimal Deterministic Massively Parallel Connectivity on Forests}},
+  booktitle = {Proceedings of the 2023 Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)},
+  pages = {2589-2631},
+  doi = {10.1137/1.9781611977554.ch99},
+  URL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch99},
+  eprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611977554.ch99}
 }
 ```

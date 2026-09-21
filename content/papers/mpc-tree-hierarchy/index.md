@@ -30,20 +30,20 @@ For the high-complexity regime, one key ingredient is a novel \textit{pointer-ch
 
 ```latex
 @InProceedings{brandt_et_al:LIPIcs.DISC.2021.50,
-  author =	{Brandt, Sebastian and Latypov, Rustam and Uitto, Jara},
-  title =	{{Brief Announcement: Memory Efficient Massively Parallel Algorithms for LCL Problems on Trees}},
-  booktitle =	{35th International Symposium on Distributed Computing (DISC 2021)},
-  pages =	{50:1--50:4},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-210-5},
-  ISSN =	{1868-8969},
-  year =	{2021},
-  volume =	{209},
-  editor =	{Gilbert, Seth},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/opus/volltexte/2021/14852},
-  URN =		{urn:nbn:de:0030-drops-148521},
-  doi =		{10.4230/LIPIcs.DISC.2021.50}
+  author = {Brandt, Sebastian and Latypov, Rustam and Uitto, Jara},
+  title = {{Brief Announcement: Memory Efficient Massively Parallel Algorithms for LCL Problems on Trees}},
+  booktitle = {35th International Symposium on Distributed Computing (DISC 2021)},
+  pages = {50:1--50:4},
+  series = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN = {978-3-95977-210-5},
+  ISSN = {1868-8969},
+  year = {2021},
+  volume = {209},
+  editor = {Gilbert, Seth},
+  publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address = {Dagstuhl, Germany},
+  URL = {https://drops.dagstuhl.de/opus/volltexte/2021/14852},
+  URN = {urn:nbn:de:0030-drops-148521},
+  doi = {10. 4230/LIPIcs.DISC.2021.50}
 }
 ```

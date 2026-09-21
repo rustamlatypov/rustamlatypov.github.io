@@ -29,21 +29,21 @@ Our main technical contribution is an $O(\log\log n)$-round algorithm to compute
 
 ```latex
 @InProceedings{grunau_et_al:LIPIcs.DISC.2023.23,
-  author =	{Grunau, Christoph and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Uitto, Jara},
-  title =	{{Conditionally Optimal Parallel Coloring of Forests}},
-  booktitle =	{37th International Symposium on Distributed Computing (DISC 2023)},
-  pages =	{23:1--23:20},
-  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
-  ISBN =	{978-3-95977-301-0},
-  ISSN =	{1868-8969},
-  year =	{2023},
-  volume =	{281},
-  editor =	{Oshman, Rotem},
-  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
-  address =	{Dagstuhl, Germany},
-  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.23},
-  URN =		{urn:nbn:de:0030-drops-191494},
-  doi =		{10.4230/LIPIcs.DISC.2023.23},
-  annote =	{Keywords: massively parallel computation, coloring, forests, optimal}
+  author = {Grunau, Christoph and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Uitto, Jara},
+  title = {{Conditionally Optimal Parallel Coloring of Forests}},
+  booktitle = {37th International Symposium on Distributed Computing (DISC 2023)},
+  pages = {23:1--23:20},
+  series = {Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN = {978-3-95977-301-0},
+  ISSN = {1868-8969},
+  year = {2023},
+  volume = {281},
+  editor = {Oshman, Rotem},
+  publisher = {Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address = {Dagstuhl, Germany},
+  URL = {https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2023.23},
+  URN = {urn:nbn:de:0030-drops-191494},
+  doi = {10.4230/LIPIcs.DISC.2023.23},
+  annote = {Keywords: massively parallel computation, coloring, forests, optimal}
 }
 ```

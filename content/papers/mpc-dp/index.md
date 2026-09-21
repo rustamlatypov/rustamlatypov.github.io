@@ -32,16 +32,20 @@ Our algorithm strictly improves on two prior algorithms:
 ##### Citation
 
 ```latex
-@inproceedings{gupta2023fast,
-  author =	{Gupta, Chetan and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and Särkkä, Simo and Studený, Jan and Suomela, Jukka and Uitto, Jara and Vahidi, Hossein},
-  title =	{{Fast Dynamic Programming in Trees in the MPC Model}},
-  booktitle =	{Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures (SPAA)},
-  publisher =	{Association for Computing Machinery},
-  address =	{New York, NY, USA},
-  year =	{2023},
-  doi =		{10.1145/3558481.3591098},
-  url =		{https://doi.org/10.1145/3558481.3591098},
-  eprint =	{2305.03693},
-  archivePrefix = {arXiv}
+@InProceedings{10.1145/3558481.3591098,
+  author = {Gupta, Chetan and Latypov, Rustam and Maus, Yannic and Pai, Shreyas and S{\"a}rkk{\"a}, Simo and Studen{\'y}, Jan and Suomela, Jukka and Uitto, Jara and Vahidi, Hossein},
+  title = {{Fast Dynamic Programming in Trees in the MPC Model}},
+  year = {2023},
+  isbn = {9781450395458},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3558481.3591098},
+  doi = {10.1145/3558481.3591098},
+  booktitle = {Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures},
+  pages = {443–453},
+  numpages = {11},
+  keywords = {accumulation, aggregation, dynamic programming, graphical models, lcl, locally checkable labeling, massively parallel model, mpc, statistical inference, trees},
+  location = {Orlando, FL, USA},
+  series = {SPAA '23}
 }
 ```
