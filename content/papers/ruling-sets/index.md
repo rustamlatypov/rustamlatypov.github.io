@@ -12,6 +12,7 @@ editPost:
 
 ##### Links
 
++ [Conference version](https://doi.org/10.4230/LIPIcs.DISC.2026.15)
 + [ArXiv version](https://arxiv.org/abs/2606.11974)
 
 ---
@@ -29,13 +30,22 @@ Our techniques extend beyond distributed computing. We present an $O(\log \log \
 ##### Citation
 
 ```latex
-@misc{baumecker2026nearoptimaldistributed2rulingsets,
-  title = {{Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity}},
-  author = {Malte Baumecker and Rustam Latypov and Yannic Maus and Jara Uitto},
-  year = {2026},
-  eprint = {2606.11974},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.DS},
-  url = {https://arxiv.org/abs/2606.11974}
+@InProceedings{baumecker_et_al:LIPIcs.DISC.2026.15,
+  author =	{Baumecker, Malte and Latypov, Rustam and Maus, Yannic and Uitto, Jara},
+  title =	{{Near-Optimal Distributed 2-Ruling Sets on Graphs with Low Arboricity}},
+  booktitle =	{40th International Symposium on Distributed Computing (DISC 2026)},
+  pages =	{15:1--15:25},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-454-3},
+  ISSN =	{1868-8969},
+  year =	{2026},
+  volume =	{397},
+  editor =	{Moses Jr., William K. and Censor-Hillel, Keren},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2026.15},
+  URN =		{urn:nbn:de:0030-drops-281213},
+  doi =		{10.4230/LIPIcs.DISC.2026.15},
+  annote =	{Keywords: 2-ruling set, LOCAL model, CONGEST model, MPC model}
 }
 ```
